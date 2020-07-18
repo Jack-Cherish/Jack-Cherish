@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 - 🤔 Website：https://cuijiahua.com/
 - 👯 Wechat
 <div align=center>
-<img src="https://github.com/Jack-Cherish/Pictures/blob/master/gzh-w.jpg" alt="wechat" width="300" height="150" align="bottom" />
+<img src="https://ftp.bmp.ovh/imgs/2020/07/112254f0199e3d4f.jpg" alt="wechat" width="300" height="150" align="bottom" />
 </div>
