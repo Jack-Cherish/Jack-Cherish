@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 - 🤔 Website：https://cuijiahua.com/
 - 👯 Wechat
 
-![](https://github.com/Jack-Cherish/Pictures/blob/master/gzh-w.jpg)
+<img src="https://github.com/Jack-Cherish/Pictures/blob/master/gzh-w.jpg" alt="wechat" width="300" height="200" align="bottom" />
 
