@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 - 👯 Wechat
 <div align=center>
 <!--<img src="https://ftp.bmp.ovh/imgs/2020/07/112254f0199e3d4f.jpg" alt="wechat" width="300" height="150" align="bottom" />-->
-  <img src="https://i.loli.net/2020/08/03/uTrHAdgFzhWlSnj.jpg" alt="wechat" width="300" height="150" align="bottom" />
+  <img src="http://photos.cuijiahua.com/wx.jpg" alt="wechat" width="300" height="150" align="bottom" />
 </div>
