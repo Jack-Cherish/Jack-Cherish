@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🌱 Python 基础、数据结构、机器学习、深度学习、网络爬虫、面试经验等优质内容，持续输出ing
 - 🤔 Website：https://cuijiahua.com/
 - 🌈 BiliBili：https://space.bilibili.com/331507846
-- 👯 Wechat：微信公众号搜索：JackCui-AI
+- 👯 Wechat：微信公众号搜索：「JackCui-AI」
 <div align=center>
 <img src="https://ftp.bmp.ovh/imgs/2020/07/112254f0199e3d4f.jpg" alt="wechat" width="300" height="150" align="bottom" />
 <!--   <img src="http://photos.cuijiahua.com/wx.jpg" alt="wechat" width="300" height="150" align="bottom" /> -->
