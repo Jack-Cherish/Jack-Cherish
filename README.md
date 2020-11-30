@@ -24,3 +24,6 @@ Here are some ideas to get you started:
 <img src="https://ftp.bmp.ovh/imgs/2020/07/112254f0199e3d4f.jpg" alt="wechat" width="300" height="150" align="bottom" />
 <!--   <img src="http://photos.cuijiahua.com/wx.jpg" alt="wechat" width="300" height="150" align="bottom" /> -->
 </div>
+
+
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
