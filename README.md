@@ -20,10 +20,13 @@ Here are some ideas to get you started:
 - 🤔 Website：https://cuijiahua.com/
 - 🌈 BiliBili：https://space.bilibili.com/331507846
 - 👯 Wechat：微信公众号搜索：[「JackCui-AI」](https://cuijiahua.com/wp-content/uploads/2020/05/gzh-w.jpg)
+
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
 <div align=center>
 <img src="https://ftp.bmp.ovh/imgs/2020/07/112254f0199e3d4f.jpg" alt="wechat" width="300" height="150" align="bottom" />
 <!--   <img src="http://photos.cuijiahua.com/wx.jpg" alt="wechat" width="300" height="150" align="bottom" /> -->
 </div>
 
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
