@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+![](https://visitor-badge.glitch.me/badge?page_id=Jack-Cherish)
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 - 🔭 热爱 coding 的算法工程一枚，欢迎关注~
@@ -27,6 +27,6 @@ Here are some ideas to get you started:
 <img src="https://ftp.bmp.ovh/imgs/2020/07/112254f0199e3d4f.jpg" alt="wechat" width="300" height="150" align="bottom" />
 <!--   <img src="http://photos.cuijiahua.com/wx.jpg" alt="wechat" width="300" height="150" align="bottom" /> -->
 </div>
-![](https://visitor-badge.glitch.me/badge?page_id=Jack-Cherish)
+
 <!--   <img src="https://github-profile-trophy.vercel.app/?username=Jack-Cherish&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />-->
 
