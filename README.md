@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](https://visitor-badge.glitch.me/badge?page_id=Jack-Cherish)
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150">
 
 - 🔭 热爱 coding 的算法工程一枚，欢迎关注~
 - 🌱 Python 基础、数据结构、机器学习、深度学习、网络爬虫、面试经验等优质内容，持续输出ing
